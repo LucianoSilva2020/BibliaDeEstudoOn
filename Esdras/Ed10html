@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Biblia Sagrada online</title>
+
+    <style>
+        body {
+            font-family: Arial;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        form.example input[type=text] {
+            padding: 10px;
+            font-size: 17px;
+            border: 1px solid grey;
+            float: left;
+            width: 80%;
+            background: #f1f1f1;
+        }
+
+        form.example button {
+            float: left;
+            width: 20%;
+            padding: 10px;
+            background: #2196F3;
+            color: white;
+            font-size: 17px;
+            border: 1px solid grey;
+            border-left: none;
+            cursor: pointer;
+        }
+
+        form.example button:hover {
+            background: #0b7dda;
+        }
+
+        form.example::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+
+        .passapag {
+            margin: auto;
+            text-align: center;
+        }
+
+        .passapag>a {
+            margin: 14px;
+            text-decoration: none;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <form class="example" action="/action_page.php">
+        <input type="text" placeholder="Search.." name="search">
+        <button type="submit"><i class="fa fa-search"></i></button>
+    </form>
+
+    <h2>Esdras</h2>
+    <h3>Capítulo 10:1-44</h3>
+
+    <div>
+        <p><sup>1</sup>Ora, enquanto Esdras orava e fazia confissão, chorando e prostrando-se diante da casa de Deus,
+            ajuntou-se a ele, de Israel, uma grande congregação de homens, mulheres, e crianças; pois o povo chorava
+            amargamente.</p>
+        <p><sup>2</sup>Então Seeanias, filho de Jeiel, um dos filhos de Elão, dirigiu-se a Esdras, dizendo: Nós temos
+            sido infiéis para com o nosso Deus, e casamos com mulheres estrangeiras dentre os povos da terra; contudo,
+            no tocante a isto, ainda há esperança para Israel.</p>
+        <p><sup>3</sup>Agora, pois, façamos um pacto com o nosso Deus, de que despediremos todas as mulheres e os que
+            delas são nascidos, conforme o conselho do meu Senhor, e dos que tremem ao mandamento do nosso Deus; e
+            faça-se conforme a lei.</p>
+        <p><sup>4</sup>Levanta-te; pois a ti pertence este negócio, e nós somos contigo; tem bom ânimo, e faze-o.</p>
+        <p><sup>5</sup>Então Esdras se levantou, e ajuramentou os principais dos sacerdotes, os levitas, e todo o
+            Israel, de que fariam conforme esta palavra; e eles juraram.</p>
+        <p><sup>6</sup>Em seguida Esdras se levantou de diante da casa de Deus, e entrou na câmara de Joanã, filho de
+            Eliasibe; e, chegando lá, não comeu pão, nem bebeu água, porque pranteava por causa da infidelidade dos do
+            cativeiro.</p>
+        <p><sup>7</sup>E fizeram passar pregão por Judá e Jerusalém, a todos os que vieram do cativeiro, para que se
+            ajuntassem em Jerusalem;</p>
+        <p><sup>8</sup>e que todo aquele que dentro de três dias não viesse, segundo o conselho dos oficiais e dos
+            anciãos, toda a sua fazenda se pusesse em interdito, e fosse ele excluído da congregação dos que voltaram do
+            cativeiro.</p>
+        <p><sup>9</sup>Pelo que todos os homens de Judá e de Benjamim dentro de três dias se ajuntaram em Jerusalém. Era
+            o nono mês, aos vinte dias do mês; e todo o povo se assentou na praça diante da casa de Deus, tremendo por
+            causa deste negócio e por causa das grandes chuvas.</p>
+        <p><sup>10</sup>Então se levantou Esdras, o sacerdote, e disse-lhes: Vós tendes transgredido, e casastes com
+            mulheres estrangeiras, aumentando a culpa de Israel.</p>
+        <p><sup>11</sup>Agora, pois, fazei confissão ao Senhor, Deus de vossos pais, e fazei o que é do seu agrado;
+            separai-vos dos povos das terras, e das mulheres estrangeiras.</p>
+        <p><sup>12</sup>E toda a congregação respondeu em alta voz: Conforme as tuas palavras havemos de fazer.</p>
+        <p><sup>13</sup>Porém o povo é muito; também é tempo de grandes chuvas, e não se pode estar aqui fora. Isso não
+            é obra de um dia nem de dois, pois somos muitos os que transgredimos neste negócio.</p>
+        <p><sup>14</sup>Ponham-se os nossos oficiais por toda a congregação, e todos os que em nossas cidades casaram
+            com mulheres estrangeiras venham em tempos apontados, e com eles os anciãos e juízes de cada cidade, até que
+            se desvie de nós o ardor da ira do nosso Deus no tocante a este negócio.</p>
+        <p><sup>15</sup>(Somente Jônatas, filho de Asael, e Jazéias, filho de Ticvá, se opuseram a isso; e Mesulão, e
+            Sabetai, o levita, os apoiaram.)</p>
+        <p><sup>16</sup>Assim o fizeram os que tornaram do cativeiro: foram indicados o sacerdote Esdras e certos
+            homens, cabeças de casas paternas, segundo as suas casas paternas, cada um designado por nome; e
+            assentaram-se no primeiro dia do décimo mês, para averiguar este negócio.</p>
+        <p><sup>17</sup>E no primeiro dia do primeiro mês acabaram de tratar de todos os homens que tinham casado com
+            mulheres estrangeiras.</p>
+        <p><sup>18</sup>Entre os filhos dos sacerdotes acharam-se estes que tinham casado com mulheres estrangeiras: dos
+            filhos de Jesuá, filho de Jozadaque, e seus irmãos, Maaséias, Eliézer, Jaribe e Gedalias.</p>
+        <p><sup>19</sup>E deram a sua mão, comprometendo-se a despedirem suas mulheres; e, achando-se culpados,
+            ofereceram um carneiro do rebanho pela sua culpa.</p>
+        <p><sup>20</sup>Dos filhos de Imer: Hanâni e Zebadias.</p>
+        <p><sup>21</sup>Dos filhos de Harim: Maaséias, Elias, Semaías, Jeiel e Uzias.</p>
+        <p><sup>22</sup>E dos filhos de Pasur: Elioenai, Maaséias, Ismael, Netanel, Jozabade e Elasa.</p>
+        <p><sup>23</sup>Dos levitas: Jozabade, Simei, Quelaías (este é Quelita) , Petaías, Judá e Eliézer.</p>
+        <p><sup>24</sup>Dos cantores: Eliasibe. Dos porteiros: Salum, Telem e îri.</p>
+        <p><sup>25</sup>E de Israel, dos filhos de Parós: Ramias, Izias, Malquias, Miamim, Eleazar, Hasabias e Benaías.
+        </p>
+        <p><sup>26</sup>Dos filhos de Elão: Matanias, Zacarias, Jeiel, Abdi, Jerimote e Elias.</p>
+        <p><sup>27</sup>Dos filhos de Zatu: Elioenai, Eliasibe, Matanias, Jerimote, Zabade e Aziza.</p>
+        <p><sup>28</sup>Dos filhos de Bebai: Jeoanã, Hananias, Zabai e Atlai.</p>
+        <p><sup>29</sup>Dos filhos de Bani: Mesulão, Maluque, Adaías, Jasube, Seal e Jerimote.</p>
+        <p><sup>30</sup>Dos filhos de Paate-Moabe: Adná, Quelal, Benaías, Maaséias, Matanias, Bezaleel, Binuí e
+            Manassés.</p>
+        <p><sup>31</sup>Dos filhos de Harim: Eliézer, Issijá, Malquias, Semaías, Simeão,</p>
+        <p><sup>32</sup>Benjamim, Maluque e Semarias.</p>
+        <p><sup>33</sup>Dos filhos de Hasum: Matenai, Matatá, Zabade, Elifelete, Jeremai, Manassés e Simei.</p>
+        <p><sup>34</sup>Dos filhos de Bani: Maadai, Anrão e Uel,</p>
+        <p><sup>35</sup>Benaías, Bedéias, Queluí,</p>
+        <p><sup>36</sup>Vanias, Meremote, Eliasibe,</p>
+        <p><sup>37</sup>Matanias, Matenai e Jaasu.</p>
+        <p><sup>38</sup>Dos filhos de Binuí: Simei,</p>
+        <p><sup>39</sup>Selemias, Natã, Adaías,</p>
+        <p><sup>40</sup>Macnadbai, Sasai, Sarai,</p>
+        <p><sup>41</sup>Azarel, Selemias, Semarias,</p>
+        <p><sup>42</sup>Salum, Amarias e José.</p>
+        <p><sup>43</sup>Dos filhos de Nebo: Jeiel, Matitias, Zabade, Zebina, Jadai, Joel e Benaías.</p>
+        <p><sup>44</sup>Todos estes tinham tomado mulheres estrangeiras; e se despediram das mulheres e dos filhos.</p>
+    </div>
+
+    <div class="passapag">
+        <a href="Ed9.html"><-Esdras 9</a>
+                <a href="#">Capítulos</a>
+                <a href="Ne1.html">Neemias 1-></a>
+    </div>
+</body>
+
+</html>

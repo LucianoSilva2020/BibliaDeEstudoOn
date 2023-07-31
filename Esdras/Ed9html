@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Biblia Sagrada online</title>
+
+    <style>
+        body {
+            font-family: Arial;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        form.example input[type=text] {
+            padding: 10px;
+            font-size: 17px;
+            border: 1px solid grey;
+            float: left;
+            width: 80%;
+            background: #f1f1f1;
+        }
+
+        form.example button {
+            float: left;
+            width: 20%;
+            padding: 10px;
+            background: #2196F3;
+            color: white;
+            font-size: 17px;
+            border: 1px solid grey;
+            border-left: none;
+            cursor: pointer;
+        }
+
+        form.example button:hover {
+            background: #0b7dda;
+        }
+
+        form.example::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+
+        .passapag {
+            margin: auto;
+            text-align: center;
+        }
+
+        .passapag>a {
+            margin: 14px;
+            text-decoration: none;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <form class="example" action="/action_page.php">
+        <input type="text" placeholder="Search.." name="search">
+        <button type="submit"><i class="fa fa-search"></i></button>
+    </form>
+
+    <h2>Esdras</h2>
+    <h3>Capítulo 9:1-15</h3>
+
+    <div>
+        <p><sup>1</sup>Ora, logo que essas coisas foram terminadas, vieram ter comigo os príncipes, dizendo: O povo de
+            Israel, e os sacerdotes, e os levitas, não se têm separado dos povos destas terras, das abominações dos
+            cananeus, dos heteus, dos perizeus, dos jebuseus, dos amonitas, dos moabitas, dos epípcios e dos amorreus;
+        </p>
+        <p><sup>2</sup>pois tomaram das suas filhas para si e para seus filhos; de maneira que a raça santa se tem
+            misturado com os povos de outras terras; e até os oficiais e magistrados foram os primeiros nesta
+            transgressão.</p>
+        <p><sup>3</sup>Ouvindo eu isto, rasguei a minha túnica e o meu manto, e arranquei os cabelos da minha cabeça e
+            da minha barba, e me sentei atônito.</p>
+        <p><sup>4</sup>Então se ajuntaram a mim todos os que tremiam das palavras do Deus de Israel por causa da
+            transgressão dos do cativeiro; porém eu permaneci sentado atônito até a oblação da tarde.</p>
+        <p><sup>5</sup>A hora da oblação da tarde levantei-me da minha humilhação, e com a túnica e o manto rasgados,
+            pus-me de joelhos, estendi as mãos ao Senhor meu Deus,</p>
+        <p><sup>6</sup>e disse: Ó meu Deus! Estou confuso e envergonhado, para levantar o meu rosto a ti, meu Deus;
+            porque as nossas iniqüidades se multiplicaram sobre a nossa cabeça, e a nossa culpa tem crescido até o céu.
+        </p>
+        <p><sup>7</sup>Desde os dias de nossos pais até o dia de hoje temos estado em grande culpa, e por causa das
+            nossas iniqüidades fomos entregues, nós, os nossos reis e os nossos sacerdotes, na mão dos reis das terras,
+            à espada, ao cativeiro, à rapina e à confusão do rosto, como hoje se vê.</p>
+        <p><sup>8</sup>Agora, por um pequeno momento se manifestou a graça da parte do Senhor, nosso Deus, para nos
+            deixar um restante que escape, e para nos dar estabilidade no seu santo lugar, a fim de que o nosso Deus nos
+            alumie os olhos, e nos dê um pouco de refrigério em nossa escravidão;</p>
+        <p><sup>9</sup>pois somos escravos; contudo o nosso Deus não nos abandonou em nossa escravidão, mas estendeu
+            sobre nós a sua benevolência perante os reis da Pérsia, para nos dar a vida, a fim de levantarmos a casa do
+            nosso Deus e repararmos as suas assolações, e para nos dar um abrigo em Judá e em Jerusalém.</p>
+        <p><sup>10</sup>Agora, ó nosso Deus, que diremos depois disto? Pois temos deixado os teus mandamentos,</p>
+        <p><sup>11</sup>os quais ordenaste por intermédio de teus servos, os profetas, dizendo: A terra em que estais
+            entrando para a possuir, é uma terra imunda pelas imundícias dos povos das terras, pelas abominações com
+            que, na sua corrupção, a encheram duma extremidade à outra.</p>
+        <p><sup>12</sup>Por isso não deis vossas filhas a seus filhos, e não tomeis suas filhas para vossos filhos, nem
+            procureis jamais a sua paz ou a sua prosperidade; para que sejais fortes e comais o bem da terra, e a
+            deixeis por herança a vossos filhos para sempre.</p>
+        <p><sup>13</sup>E depois de tudo o que nos tem sucedido por causa das nossas más obras, e da nossa grande culpa,
+            ainda assim tu, ó nosso Deus, nos tens castigado menos do que merecem as nossas iniqüidades, e ainda nos
+            deixaste este remanescente;</p>
+        <p><sup>14</sup>tornaremos, pois, agora a violar os teus mandamentos, e a aparentar-nos com os povos que cometem
+            estas abominações? Não estarias tu indignado contra nós até de todo nos consumires, de modo que não ficasse
+            restante, nem quem escapasse?</p>
+        <p><sup>15</sup>Ó Senhor Deus de Israel, justo és, pois ficamos qual um restante que escapou, como hoje se vê.
+            Eis que estamos diante de ti em nossa culpa; e, por causa disto, ninguém há que possa subsistir na tua
+            presença.</p>
+    </div>
+
+    <div class="passapag">
+        <a href="Ed8.html"><-Esdras 8</a>
+                <a href="#">Capítulos</a>
+                <a href="Ed10.html">Esdras 10-></a>
+    </div>
+</body>
+
+</html>

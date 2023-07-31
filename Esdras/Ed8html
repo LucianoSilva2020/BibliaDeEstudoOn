@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Biblia Sagrada online</title>
+
+    <style>
+        body {
+            font-family: Arial;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        form.example input[type=text] {
+            padding: 10px;
+            font-size: 17px;
+            border: 1px solid grey;
+            float: left;
+            width: 80%;
+            background: #f1f1f1;
+        }
+
+        form.example button {
+            float: left;
+            width: 20%;
+            padding: 10px;
+            background: #2196F3;
+            color: white;
+            font-size: 17px;
+            border: 1px solid grey;
+            border-left: none;
+            cursor: pointer;
+        }
+
+        form.example button:hover {
+            background: #0b7dda;
+        }
+
+        form.example::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+
+        .passapag {
+            margin: auto;
+            text-align: center;
+        }
+
+        .passapag>a {
+            margin: 14px;
+            text-decoration: none;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <form class="example" action="/action_page.php">
+        <input type="text" placeholder="Search.." name="search">
+        <button type="submit"><i class="fa fa-search"></i></button>
+    </form>
+
+    <h2>Esdras</h2>
+    <h3>Capítulo 8:1-36</h3>
+
+    <div>
+        <p><sup>1</sup>Estes, pois, são os chefes de suas casas paternas, e esta é a genealogia dos que subiram comigo
+            de Babilônia no reinado do rei Artaxerxes:</p>
+        <p><sup>2</sup>Dos filhos de Finéias, Gérson; dos filhos de Itamar, Daniel; dos filhos de Davi, Hatus;</p>
+        <p><sup>3</sup>dos filhos de Secanias, dos filhos de Parós, Zacarias; e com ele, segundo as genealogias dos
+            varões, se contaram cento e cinqüenta;</p>
+        <p><sup>4</sup>dos filhos de Paate-Moabe, Elioenai, filho de Zeraías, e com ele duzentos homens;</p>
+        <p><sup>5</sup>dos filhos de Zatu, Secanias, o filho de Jaaziel, e com ele trezentos homens;</p>
+        <p><sup>6</sup>dos filhos de Adim, Ebede, filho de Jônatas, e com ele cinqüenta homens;</p>
+        <p><sup>7</sup>dos filhos de Elão, Jesaías, filho de Atalias, e com ele setenta homens;</p>
+        <p><sup>8</sup>dos filhos de Sefatias, Zebadias, filho de Micael, e com ele oitenta homens; e</p>
+        <p><sup>9</sup>dos filhos de Joabe, Obadias, filho de Jeiel, e com ele duzentos e dezoito homens;</p>
+        <p><sup>10</sup>dos filhos de Bani, Selomite, o filho de Josifias, e com ele cento e sessenta homens;</p>
+        <p><sup>11</sup>dos filhos de Bebai, Zacarias, o filho de Bebai, e com ele vinte e oito homens;</p>
+        <p><sup>12</sup>dos filhos de Azgade, Joanã, o filho de Hacatã, e com ele cento e dez homens;</p>
+        <p><sup>13</sup>dos filhos de Adonicão, que eram os últimos, eis os seus nomes: Elifelete, Jeuel e Semaías, e
+            com eles sessenta homens;</p>
+        <p><sup>14</sup>e dos filhos de Bigvai, Utai e Zabude, e com eles setenta homens.</p>
+        <p><sup>15</sup>Ajuntei-os à margem do rio que corre para Ava; e ficamos ali acampados três dias. Então passei
+            em revista o povo e os sacerdotes, e não achei ali nenhum dos filhos de Levi.</p>
+        <p><sup>16</sup>Mandei, pois, chamar Eliézer, Ariel, Semaías, Elnatã, Jaribe, Elnatã, Natã, Zacarias e Mesulão,
+            os chefes, como também, Joiaribe e Elnatã, que eram mestres.</p>
+        <p><sup>17</sup>E os enviei a Ido, chefe em Casífia, e lhes pus na boca palavras para dizerem a Ido e aos seus
+            irmãos, os netinins, em Casífia, que nos trouxessem ministros para a casa do nosso Deus.</p>
+        <p><sup>18</sup>E, pela boa mão de nosso Deus sobre nós, trouxeram-nos um homem entendido, dos filhos de Mali,
+            filho de Levi, filho de Israel; e Serebias, com os seus filhos e irmãos, dezoito;</p>
+        <p><sup>19</sup>e Hasabias, e com ele Jesaías, dos filhos de Merári, com seus irmãos e os filhos deles, vinte;
+        </p>
+        <p><sup>20</sup>e dos netinins, que Davi e os príncipes tinham dado para o serviço dos levitas, duzentos e
+            vinte, todos eles mencionados por nome.</p>
+        <p><sup>21</sup>Então proclamei um jejum ali junto ao rio Ava, para nos humilharmos diante do nosso Deus, a fim
+            de lhe pedirmos caminho seguro para nós, para nossos pequeninos, e para toda a nossa fazenda.</p>
+        <p><sup>22</sup>Pois tive vergonha de pedir ao rei uma escolta de soldados, e cavaleiros para nos defenderem do
+            inimigo pelo caminho, porquanto havíamos dito ao rei: A mão do nosso Deus é sobre todos os que o buscam,
+            para o bem deles; mas o seu poder e a sua ira estão contra todos os que o deixam.</p>
+        <p><sup>23</sup>Nós, pois, jejuamos, e pedimos isto ao nosso Deus; e ele atendeu às nossas orações.</p>
+        <p><sup>24</sup>Então separei doze dos principais dentre os sacerdotes: Serebias e Hasabias, e com eles dez dos
+            seus irmãos;</p>
+        <p><sup>25</sup>e pesei-lhes a prata, o ouro e os vasos, a oferta para a casa do nosso Deus, que o rei, os seus
+            conselheiros, os seus príncipes e todo o Israel que estava ali haviam oferecido;</p>
+        <p><sup>26</sup>entreguei-lhes nas mãos seiscentos e cinqüenta talentos de prata, e em vasos de prata cem
+            talentos; e cem talentos de ouro;</p>
+        <p><sup>27</sup>e vinte taças de ouro no valor de mil dáricos, e dois vasos de bronze claro e brilhante, tão
+            precioso como o ouro.</p>
+        <p><sup>28</sup>E disse-lhes: Vós sois santos ao Senhor, e santos são estes vasos; como também esta prata e este
+            ouro são ofertas voluntárias, oferecidas ao Senhor, Deus de vossos pais.</p>
+        <p><sup>29</sup>Vigiai, pois, e guardai-os até que os peseis na presença dos principais dos sacerdotes e dos
+            levitas, e dos príncipes das casas paternas de Israel, em Jerusalém, nas câmaras da casa do Senhor.</p>
+        <p><sup>30</sup>Então os sacerdotes e os levitas receberam o peso da prata, e do ouro, e dos vasos, a fim de os
+            trazerem para Jerusalém, para a casa do nosso Deus.</p>
+        <p><sup>31</sup>Então partimos do rio Ava, no dia doze do primeiro mês, a fim de irmos para Jerusalém; e a mão
+            do nosso Deus estava sobre nós, e ele nos livrou da mão dos inimigos, e dos que nos armavam ciladas pelo
+            caminho.</p>
+        <p><sup>32</sup>Chegamos, pois, a Jerusalém, e repousamos ali três dias.</p>
+        <p><sup>33</sup>No quarto dia se pesou a prata, e o ouro, e os vasos, na casa do nosso Deus, para as mãos de
+            Meremote filho do sacerdote Urias; e com ele estava Eleazar, filho de Finéias, e com eles os levitas
+            Jozabade, filho de Jesuá, e Noadias, filho de Binuí.</p>
+        <p><sup>34</sup>Tudo foi entregue por número e peso; e o peso de tudo foi registrado na ocasião.</p>
+        <p><sup>35</sup>Os exilados que tinham voltado do cativeiro ofereceram holocaustos ao Deus de Israel: doze
+            novilhos por todo o Israel, noventa e seis carneiros, setenta e sete cordeiros, e doze bodes em oferta pelo
+            pecado; tudo em holocausto ao Senhor.</p>
+        <p><sup>36</sup>Então entregaram os editos do rei aos sátrapas do rei, e aos governadores a oeste do Rio; e
+            estes ajudaram o povo e a casa de Deus.</p>
+    </div>
+
+    <div class="passapag">
+        <a href="Ed7.html"><-Esdras 7</a>
+                <a href="#">Capítulos</a>
+                <a href="Ed9.html">Esdras 9-></a>
+    </div>
+</body>
+
+</html>
