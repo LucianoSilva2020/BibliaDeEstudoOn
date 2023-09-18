@@ -1,0 +1,11 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(29, 243, 118, 0.808);
+    width: 100%;
+    height: 90px;
+    padding: 20px;
+}
+.footer > div > a {
+    text-decoration: none;
+}
