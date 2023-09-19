@@ -1,4 +1,11 @@
-.footer {
+* {
+    margin: 0;
+}
+
+body > h2, h3, p {
+    margin: 14px;
+}
+footer {
     display: flex;
     justify-content: space-between;
     background-color: rgba(29, 243, 118, 0.808);
@@ -8,4 +15,19 @@
 }
 .footer > div > a {
     text-decoration: none;
+}
+
+.example {
+    display: none;
+}
+
+.passapag > a {
+    background-color: rgba(29, 243, 118, 0.808);
+    padding: 10px;
+    border-radius: 10%;
+    box-shadow: 3px 7px 14px #888888;
+}
+
+.passapag {
+    margin: 37px;
 }
