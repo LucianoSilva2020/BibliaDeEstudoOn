@@ -77,3 +77,11 @@ footer {
     width: 60px;
     height: 50px;
   }
+
+  .livros > a {
+    text-decoration: none;
+    margin: 14px;
+  }
+  .livros {
+    text-align: center;
+  }
