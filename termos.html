@@ -4,10 +4,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../BibliaDeEstudoOn/styleGeral.css">
     <title>Política Privacidade</title>
 </head>
 
 <body>
+
+        <div class="mobile-container">
+
+                <div class="topnav">
+                    <a href="index.html" class="active"><img class="imgArvoredoLogo" src="Arvoredo.png"
+                            alt="arvoredo pau miudo"></a>
+                    <div id="myLinks">
+                        <a href="https://www.youtube.com/@arvoredopaumiudo/streams">YouTube</a>
+                        <a href="https://www.instagram.com/arvoredo_paumiudo/">Instagram</a>
+                    </div>
+                    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+            </div>
+        
     <h2><span style="color: rgb(68, 68, 68);">Política Privacidade</span></h2>
     <p><span style="color: rgb(68, 68, 68);">A sua privacidade é importante para nós. É política do Biblia de estudo
             online respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no site <a
@@ -71,6 +88,50 @@
             houver algo que você não tem certeza se precisa ou não, geralmente é mais seguro deixar os cookies ativados,
             caso interaja com um dos recursos que você usa em nosso site.</span></p>
     <p><span style="color: rgb(68, 68, 68);">Esta política é efetiva a partir de&nbsp;18 September 2023 14:55</span></p>
+
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+    <footer>
+        <div style="font-size: large;">
+            <a href="termos.html" target="_blank">Política de privacidade e Cookies /</a>
+            <a href="https://www.instagram.com/arvoredo_paumiudo/" target="_blank">Contato</a>
+        </div>
+        <div>
+            <div style="font-size:large">
+                Jesus e a Bíblia 2023 © Todos os direitos reservados
+            </div>
+        </div>
+    </footer>
+
+
+    <script>
+        function myFunction() {
+            var x = document.getElementById("myLinks");
+            if (x.style.display === "block") {
+                x.style.display = "none";
+            } else {
+                x.style.display = "block";
+            }
+        }
+
+
+        let mybutton = document.getElementById("myBtn");
+
+
+        window.onscroll = function () { scrollFunction() };
+
+        function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                mybutton.style.display = "block";
+            } else {
+                mybutton.style.display = "none";
+            }
+        }
+
+        function topFunction() {
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+        }
+    </script>
 </body>
 
 </html>
