@@ -112,3 +112,12 @@ footer {
 #myBtn:hover {
   background-color: #555;
 }
+
+.Ptitulo {
+  text-align: center;
+  font-size: larger;
+}
+
+.FalaDeus {
+  color: #ee1010c5;
+}
