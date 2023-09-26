@@ -121,3 +121,11 @@ footer {
 .FalaDeus {
   color: #ee1010c5;
 }
+
+.prc {
+  font-weight: bold;
+  color: rgb(36, 192, 192);
+}
+.rc {
+  text-decoration: none;
+}
