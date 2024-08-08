@@ -5,7 +5,7 @@
 
 p {
   font-family: "Times New Roman", Times, serif;
-  font-size: larger;
+  font-size: 23px;
 }
 
 h2 {
@@ -40,13 +40,15 @@ footer {
 
 .passapag>a {
   background-color: #69000046;
-  padding: 10px;
+  padding: 14px;
   border-radius: 10%;
   box-shadow: 3px 7px 14px #636262;
+  margin: 14px;
 }
 
 .passapag {
   margin: 28px;
+  font-weight: 900;
 }
 
 .mobile-container {
@@ -210,4 +212,16 @@ footer {
   cursor: pointer;
   border: 3px solid #69000046;
   border-radius: 3%;
+}
+
+.linkref {
+  border-bottom: 4px solid #faea0a;
+  text-decoration: none;
+  color: #0a0707;
+  border-radius: 7%;  
+}
+
+.linkref:hover {
+  background-color: #e9fa03;
+  color: rgb(0, 0, 0);
 }
