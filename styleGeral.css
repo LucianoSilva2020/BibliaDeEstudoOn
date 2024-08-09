@@ -5,7 +5,7 @@
 
 p {
   font-family: "Times New Roman", Times, serif;
-  font-size: 23px;
+  font-size: 21px;
 }
 
 h2 {
@@ -230,4 +230,9 @@ footer {
 
 .ppequeno {
   font-size: 17px;
+}
+
+.imgmapas {
+  max-height: 700px;
+  max-width: 300px;
 }
