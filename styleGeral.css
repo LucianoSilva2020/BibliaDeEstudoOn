@@ -43,8 +43,15 @@ footer {
   background-color: #69000046;
   padding: 14px;
   border-radius: 10%;
-  box-shadow: 3px 7px 14px #636262;
+  box-shadow: 3px 7px 14px #6362626b;
   margin: 14px;
+}
+
+@media only screen and (max-width: 450px) {
+
+.passapag {
+    font-size: 10px;
+  }
 }
 
 .passapag {
