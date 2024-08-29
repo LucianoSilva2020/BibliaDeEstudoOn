@@ -300,3 +300,59 @@ footer {
   cursor: pointer;
   user-select: none;
 }
+
+#contentSlide2 {
+  margin-bottom: 50px;
+  top: 10px;
+  left: 0;
+  width: 100%;
+  height: 410px;
+  z-index: 0;
+  display: flex;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+}
+
+#contentSlide2::-webkit-scrollbar{
+  display: none;
+}
+
+#contentSlide2 #block{
+  position: relative;
+  top: 30px;
+  margin: 0 5px;
+  width: 250px;
+  height: 350px;
+  display: inline-block;
+}
+
+#btn-left2 {
+  position: absolute;
+  padding: 0;
+  top: 730px;
+  left: 0;
+  height: 80px;
+  width: 50px;
+  line-height: 80px;
+  text-align: center;
+  z-index: 1;
+  background: rgba(245, 245, 245, 0.356);
+  cursor: pointer;
+  user-select: none;
+}
+
+#btn-right2 {
+  position: absolute;
+  padding: 0;
+  top: 730px;
+  right: 0;
+  height: 80px;
+  width: 50px;
+  line-height: 80px;
+  text-align: center;
+  z-index: 1;
+  background: rgba(245, 245, 245, 0.356);
+  cursor: pointer;
+  user-select: none;
+}
