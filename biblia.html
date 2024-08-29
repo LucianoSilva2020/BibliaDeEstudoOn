@@ -116,19 +116,19 @@
         </div>
                 <div id="contentSlide">
                     <div id="block">
-                        <img class="imgmapas" src="img/Genesis.jpeg" alt="">
+                        <img id="block" class="imgmapas" src="img/Genesis.jpeg" alt="">
                     </div>
                     <div id="block">
-                        <img class="imgmapas" src="img/exodo.jpeg" alt="">
+                        <img id="block" class="imgmapas" src="img/exodo.jpeg" alt="">
                     </div>
                     <div id="block">
-                        <img class="imgmapas" src="img/levitico.jpg" alt="">
+                        <img id="block" class="imgmapas" src="img/levitico.jpg" alt="">
                     </div>
                     <div id="block">
-                        <img class="imgmapas" src="img/numeros.jpeg" alt="">
+                        <img id="block" class="imgmapas" src="img/numeros.jpeg" alt="">
                     </div>
                     <div id="block">
-                        <img class="imgmapas" src="img/Deuteronômio.jpeg" alt="">
+                        <img id="block" class="imgmapas" src="img/Deuteronômio.jpeg" alt="">
                     </div>
                 </div>
             <div id="btn-right" onclick="direcao(2)">
@@ -339,6 +339,17 @@
                     document.documentElement.scrollTop = 0;
                 }
 
+                function direcao(e){
+                    var direcao = document.getElementById("contentSlide");
+
+                    if(e == 1){
+                        //esquerda
+                        direcao.scrollLeft = direcao.scrollLeft - 200;
+                    }else if(e == 2){
+                        //direita
+                        direcao.scrollLeft = direcao.scrollLeft + 200;
+                    }
+                }
 
             </script>
 </body>
