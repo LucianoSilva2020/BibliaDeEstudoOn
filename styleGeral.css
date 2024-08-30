@@ -38,9 +38,9 @@ footer {
   text-decoration: none;
 }
 
-.example {
+/* .example {
   display: none;
-}
+} */
 
 .passapag>a {
   background-color: #69000046;
@@ -87,7 +87,7 @@ footer {
 
 .topnav a.icon {
   padding: 21px;
-  background: #69000046;
+  background: #441f1f46;
   display: block;
   position: absolute;
   right: 0;
